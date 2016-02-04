@@ -3,3 +3,10 @@ date = "2016-02-04T14:18:00+01:00"
 draft = true
 title = "Lamasticot"
 +++
+
+# TP Git 
+## Configuration
+
+	git config --global user.name "Pierre Dupond"
+	git config --global user.email "pierre.dupond@univ-lille1.fr"
+	git config --global http.proxy http://cache.univ-lille1.fr:3128
