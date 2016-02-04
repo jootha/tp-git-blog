@@ -53,4 +53,4 @@ GEM LAIS PEAU NER
           $CHAT$$$$$c        ^$$$$            4       4
 
 
-<img src="/../public/Lamasticot.png">
+<img src="../public/Lamasticot.png">
