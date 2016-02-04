@@ -62,3 +62,7 @@ dfmgjersiog
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 
+<<<<<<< HEAD
+=1=
+=======
+>>>>>>> 1f0a26dbec6c6f55758749dd703f816172d38e20
