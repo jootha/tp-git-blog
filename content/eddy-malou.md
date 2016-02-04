@@ -9,7 +9,7 @@ title = "Eddy-Malou"
 JOHN SNOW MEURT 
 LA MERE STARK REVIENT EN MARCHEUR BLANC
 
-##Les mathématiques de la congolexicomatisation
+###Les mathématiques de la congolexicomatisation
 Pour tout x appartenant à R : Quand il y en a beaucoup, c'est qu'il y en a trop. Donc beaucoup = trop
 En appliquant le théorème de la congolexicomatisation du marché, on en déduit : beaucoup trop = trop trop
 Ce qui ramène au double trot du cheval, précédemment déduit de la nucléarité des rollers.
