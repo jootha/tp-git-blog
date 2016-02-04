@@ -1,0 +1,6 @@
+*~ 
+*.swp
+latex/*.log
+latex/*.aux
+latex/*.out
+latex/*.pdf
