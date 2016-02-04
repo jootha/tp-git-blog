@@ -1,5 +1,5 @@
 +++
-date = "AAAA-MM-DDT:12:00:00+01:00"
+date = "AAAA-MM-DDT12:00:00+01:00"
 draft = true
 title = "OLALA"
 +++
