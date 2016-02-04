@@ -1,49 +1,12 @@
 +++
-<<<<<<< HEAD
-<<<<<<< HEAD
 date = "2016-02-04T14:11:00+01:00"
 draft = true
 title = "Mes réponses au TP Git"
 +++
 
-# TP Git
-## Configuration
-
-git config --global user.name "Alexandre Lantoine"
-git config --global user.email "lantoine.alexandre@outlook.fr"
-git config --global http.proxy http://cache.univ-lille1.fr:3128
-
-=======
-date = "2016-02-04T12:00:00+01:00"
->>>>>>> 5c120f5c9f3e3f10b9f781c283d5554323448cb9
-=======
-date = "2016-02-04T14:18:00+01:00"
->>>>>>> 4dc5f8f4015708cca497ae4cb50b02366f054bfe
-draft = true
-title = "Le Dieu Lamasticot"
-+++
-
-<<<<<<< HEAD
-#TP Git
-##Configuration
-=======
-# TP Git 
-## Configuration
-
-<<<<<<< HEAD
-=======
->>>>>>> 4dc5f8f4015708cca497ae4cb50b02366f054bfe
-	git config --global user.name "Pierre Dupond"
-	git config --global user.email "pierre.dupond@univ-lille1.fr"
-	git config --global http.proxy http://cache.univ-lille1.fr:3128
->>>>>>> 41e1400b7a22bdf92541b0f5f4d079747c513fe5
-
-<<<<<<< HEAD
 pleins d'autres choses
 =======
 Le lamasticot est une créature étrange popularisée par le forum blabla 15-18 ans. Il est considéré comme un être supérieur à tous les humains. Il existe aussi plusieurs hypothèses comme par exemple que les lamasticots nous surveilleraient sans cesse. 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
 
@@ -95,13 +58,3 @@ Le lamasticot est une créature étrange popularisée par le forum blabla 15-18 
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 
-
-=======
->>>>>>> 4dc5f8f4015708cca497ae4cb50b02366f054bfe
->>>>>>> 41e1400b7a22bdf92541b0f5f4d079747c513fe5
-=======
->>>>>>> eb1e38a0eaafc1f1e5fb13c061acc1757f1518f1
-=======
->>>>>>> 4dc5f8f4015708cca497ae4cb50b02366f054bfe
->>>>>>> 5c120f5c9f3e3f10b9f781c283d5554323448cb9
->>>>>>> e9797a732a569ff91750b2c35c5999f7cab51b96
