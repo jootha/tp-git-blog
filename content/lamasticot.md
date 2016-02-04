@@ -9,3 +9,5 @@ title = "Lamasticot"
 	git config --global user.name "Pierre Dupond"
 	git config --global user.email "pierre.dupond@univ-lille1.fr"
 	git config --global http.proxy http://cache.univ-lille1.fr:3128
+
+pleins d'autres choses
