@@ -53,4 +53,4 @@ GEM LAIS PEAU NER
           $CHAT$$$$$c        ^$$$$            4       4
 
 
-<img src="../public/Lamasticot.png">
+![Alt Text](https://wiki.jvflux.com/images/thumb/4/47/Lamasticot.PNG/300px-Lamasticot.PNG)
