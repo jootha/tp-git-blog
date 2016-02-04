@@ -8,127 +8,46 @@ title = "Le Grand Monarque"
 
 GEM LAIS PEAU NER
 
-           .:IIIIHIHHIHHHII::I:.
-         .IIIIHIHHHHHHIHIIIIMHHI:, 
-       :IIIIHIHHHHHHMMHHIHHIIHHIII:. 
-     .:IHIHHHHHHHHHHHHHIHIHHIHHHIH:I:, 
-    ,.:HIHHHHHHHHHHHHHHHHHHHHHIHIHHII:. 
-   ,.:IHHHHHHHHHHMMMMHHHHHHHIIHHHIHIII, 
-  .:IIHHHHHHHHMMMMMHHHHMMMHHMHHHIIIHIIII: 
-  .IIHHHMMMMMMMHHMMMHHHMMMHHMHII:HHHII:I. 
-  :HIHHHMHMMMMMMMMMMMMHMHHHHII:HHMMHII:II 
- :HHHHMHMMMMMMMMMMMMMMMHIIHIHHMMHHHHII::I: 
-:IIHHHHHMHMMMMMMMMMMHMMHIHMMMMHHHI:"::IIHII: 
-:IHHHHHMHMMMMMMMMMMMMHHI:II::I:"' .   '"IHH. 
-::HHHHMHMMMMMMMMMMHMHHI:II::.'  .       'VMA. 
-IHHHHHMHNMMMMMMMMHMHHI:II:. . .          "MMH. 
-HHHHHMHMMMMMMMMMMHMHI:I::.' .  . .      .,MMM:. 
-HHHHMHMMMMMMMMMMMHMHI:II:. ..  .    ..LI:"IMMI.
-HMHMMMMMMMMMMMMMMHMHI:II.'.        :HT;.,, VHI: 
-HHHHHMHMMMMMMMMMHMHHHI:HMHII:,.   ':,MHP"HPIHII. 
-IHHHHMHMMMMMMMMMHMHHHII::IT:.I:.  'HMMH ,:" VII: 
-:HHHHHHHMHMMMMMHMHHHHIIMMMPVHI::. .P"TIT"'  IH:I 
-HHIHHHHHHMHMMMMHMHHHHH:VMMM:.HI:H:. :. . . . II:I. 
-:HHHHHMHMMMMMHMHHHHIIHMMHHI:.:HI:. . .. .  :III; 
-IHHHHMHMMMMMMMHHHHHI:IT:TI:..:HI:.. ..:. . :IHII 
- IHHMHMMMMMMMMMMMHHI:I::.:. ..:II::.. :I..  :HIIH. 
- 'HHHMHMMMMMHMHHHH:II:.. ...:II:II./'::.' IHHIH; 
-  HHMHMMMMMMMHMHHHH:I:I::....::VIHI;, ' . . IHHIHA 
-  MHHMMMMMMMMMHMHHH:II:::...::II:::.;,,,:   AHHIHH; 
-  ;HHMHMMMMMMMMHMHH-:II::..:::I::"",,:"''  .HHHIHHI. 
-  'HHHMHMMMMMMMMHMHHA:II:.:H.::-"'""' ,'. .AMHHIHHH; 
-   :HHMHMMMMMMMMMMHMHA:II::.::::-;,,:: .. :AMHI:IHHI 
-   'HHMHMMMMMMMMMMHMHHA:III:::II:II::. . .AMMHI:IHHH. 
-    :HHHMHMMMMMMMMMHMHHA:IIIHII:.:::. . .AMMMHI:IHHH:. 
-    'HHMHMMMMMMMMMMMMHMHHHI:":VIII::...:AMMMMHHI:IHHHI
-     ;IHMHMMMMMMMMMMMMMHMHHII:. '"" 'AMMMMMMMHI:IIHHH:I. 
-     :IMHMMMMMMMMMMMMMMHMHHHII:.  .:IHMMMMMMHHHIHIHHHI::. 
-     ;HHHMHMMMMMMMMMMMMMMHMHHHI:..IHHMHMMHHHHHIHHHMHH;I:".' 
-     ;HHHHHMHMMMMMNMMMMMMMHMHHHI::.HHHHMMHHHHHIHIHHHHHI:' 
-     :HHHHHHHHMHMMMMMMMMMHHHMHHHI:IHHMHMMHHHHHMHIHHHHIHI; 
-     ;HHHHHHHHMMHMMMMMHMHHMMHIHMI:IIHHHMHHHHMHMHIHIHHHHI:. 
-     IHHHHHHHHHHMHMMMMMHMHHMMHHMMII:IHHMMHMHHHHMMHMHMHHHH; 
-     ;HH:":IHHHHMHMMMMMHMHIHMHIIMMHI:IMHMMMI:HHHHHMMHHHHI:I. 
-    ;HV" . .:IIHHHMMMMMMMHHHMMHIIHMHHI:HHHMHI:IHHIHHIHHMHI:II;. 
-   ;IV"   . .''":VMMMMMMHMHHHMMHI:HHHHI:HHHIHI:IHHHHHIHHHIHII;, 
-   .II"   .. .  ':VHHHMHMMMMMHMHHI:HMMHI:IHHHI::IHHHI:HIHHHI:I:. 
-  .II . . .  . .  ':HHHHMHMMMHMMMHIHIMMMHI:HHHMI:IHHHIHI:HHHHII:I. 
- .;V' . .. .  .    'IHMMMHHMHHHMMMHIHIHHHHI:IHHHI:IHHHHHIHHHHHIIHII:. 
-.:I" .. . .    .   :IHMMMHHHMHHIHHHI:HHIHHHIHIHHHAIHHHHHHI:HHHIHII:. 
-'..:  .  .       .  :IMMMHMHHIMHIIHHI:IHHI:IHHIHHHHIHIHHHHIHIHHHHIHI:. 
-.: .. . . .      ..:IHMMMHMHMHMHHHHMHIHHI:.IVIIHHHIHHHHHHHHI:HIHHIHII:. 
-.: .   . .        . :IHMMMHMIHIH:IIHHHIHH:.I:IIHHHIHHHHHHHHIHI:IHHHI:;.
-:: .:. .  .   .   ..:IHHMMMHMIHIH:IIHHHMHH::..:HHHHI:HHHHHHI:I:IIIHII; 
-:. ... . .  .     ..::HHHMMHMHHII:HIIHHMMHH:..:HHHMHHIHHHI:: . :IHII:I 
-..  ..  .   .      ..:IHHHMMMMHIII:HIHMMMHHI:. HHMHMMHHII:'  '.:IHII:" 
-':....   . .      . ..:IHHHMMMMHMHI:HIHMMMHA...VHMMHHHMI:'  .' :IH::" 
- :. ..  ....    .    ..IHHHHMMMMHHII:I:IHMMHA. .VHMHHHI:' ''    '':, 
- ::...  . .... .   . ..::IHHHMMMMIHII::I:IHMMHHMHIHIHI''   .  .     , 
- ::.... . .....  ..  ...::IIIHHHMMIHI::IHHHIIIHHHIIHI".  ..   .      , 
- ::.:.......... .. . ....:::HHIIHHHHHHHIIHMMMHI:' 'VI::..  . .        , 
- ::.:............. .. . ...AHIHIIIIIHHHI::""'      'VII:.. ..    .      
- ::.:.:.......... .. .  ...HHHIIIIIIHHHI::. .       'VII::. . .       , 
- ':::.:.:..... .. . . . ..:MHHIHIIIII:I::. .         'VII:::. ..      . 
-  :::::.:..:.... . . . ...AHHHHIHIIII:::. .           'VII:::. . .   :. 
-  :::::::.:..... .. . ....MHHHHHIHIII::.:.. .          'VII::.  .   :: 
-  :::::::::.:.... .. ....:MHHHHIHII:I::::...  .         'VI::. .   ::I) 
-  '::::::::::.:... .. ...:MHHHHIHIIII::::..  .           'VI:.    ...:V 
-   .:::::::::::.:.... . .AMMHHIHIII:I::::...  .  .        I::.   ...:-" 
-   :.::I::::::::.:. .  ..MMMHHIHIIII:I:::... .  .        .::.  ,..-"
-   :..:II:I:::::.:.. . ..MMMHHIHIIIIIII:I::.... .  .    ..::""' 
-  .::.:III:I::::::.:.. ..MMMMIVHIHIIIII:I::::.... .   .....:, 
-.:.::..:III:I:::::.:... .MMHMAIVHHIHIIIII:I::::.. .  ..::..:, 
-. .:::.::III:I::::.:... .VMMHMAIVHHHIHIIII:I::::..  ..:...::: 
-. :::I.:::III:I:::.::.. .:MMHHMAIVHHIHIIIII:I::::....:::.:::: 
- .::IIH.:::III:I::::.:.. .MMHMHMAIVHHHIHIIIIII:I:::.:::::::I) 
-.::IIHH.II:::II:I::::.:...MMMHMHMAIVHHHHHIHII:I:::..::::::HV 
-::IIIHIH.III::I:I::::.:. .MHHMHHHIAIIVHHHHIHIII:...::::.:-" 
-:IIHIHHA.VIHII:I:::::::...HHHHHHIHI::":VHHHII:I:::...:-' 
-IIHIHHHHI.HHIHII:I:::::...HHHIHII:' .  .'"VIIIII::-' 
-IHIHHHHH-:HHIHIIII:I::.:..HIHI::. ..  ...:" 
-HIHHHHIHHH:HHHIHIIII:I::.:HII:'. .   ..:" 
-HHHHHHMHHHIHHHHHHIHIII::.IHI:.  .    ..:-., 
-HHHHHHHMHHIHHHHHHHIHII:..II:'  .    .:"    ''"-. 
-HHHHHHHMHHIHHHHHHIHII::..I;'. .   ..:"          '"-. 
-HHHHHHHMHIHHHHHHHHIHI::,.I;' . .   .;"              "- . 
-MMHMHHHHHH-IHHHHHHIHII::.::;.   :.:;.... .             '"-.
-MMMHMHHHHHHIHHHHHHIHII::..:.,  .N.:I::.... .               '"-. 
-MMMMHMHHHHHIHHHHHHIHIII:..:.;. :.:AI:::..... .  .             .'-. 
-MMMMMHMHHHIHHHHHHHHHIHII:..:.;:.:AIII::::....... .               .':, 
-MMMMHMHHHHIHHHHHHHHHHIH:I:.:.,::AHIHIII:I::::::::...... .    .  ...::, 
-MMMHMHHHHHIHVHHHHHHHHHIII::.:.:AHHIHIHIIIII:I:::::::.:....... .. ...::. 
-MHMHHHIHIIII:HHHHHHHIHII:I:. :AHHHHHHHHHHHIHIIHIIIIIII:I::.:..... ..::. 
-HHHHIHIIII:I:HHHHHHHHIHII:: .IHHHHHHHHHHHHHHHHHHHHIIHIII:I::::::::::::. 
-HHIHIIIII:I::VHHHHHHHIHII::. :MHHHHHHHHHHHHHHHHHHHHHHIHIIHIIIIIIIIIIIV 
-HHIHIIII:I::::MHHHHHHHIII::.. MMMMMMMMMMMMMMMMMMMMHMHHHHHHIIHIIIHIIIV' 
-HHHIHII:I::I::MHHHHHHIHIII:: .HHIHHHHHIHHHHHHHHIHHIHHHIHHHHIHHIHIHHV' 
-HHHHIHII:I::::HHHHHHHIHII:I:. MHHHIHHHHHHHIHHHHHHIHHHHHHHIHHHHHHHHV' 
-MMHHHIHIII:I::HHHHHHHHIHIII: .:MMMMMMMMMMMMMHMHHHHHHHHHHHHHHHHHV:' 
-II:IHMHHI::::AIHHHHHHHHHIII::. MMMMMMMMMMMMMMMMMMMMMHMHHHHHHHV:' 
-III:IHMHIAMMMIHHHHHHHHHIHII....MMMMMMMMMMMMMMMMM--"""'' 
-IIIII:I:IIHMMMMMHHHHHHHHHHHII:::"""""""""""""'' 
-IIIII:I:II:.T,  'VHHHHHHHHIHI::: 
-IIIHIII:I:::.:,  :HHHHHHHHHHIHII
-IIIIII:I::::::.,  VHHHHHHHHHHIHI 
-IIHII:I::::.:..., 'MMMHMHHHHHIHI. 
-IIII:I:::::.:....:.VMMMHMHHHHHIH. 
-IIIIII:I::::::.:..:.MMMMMHMHHHHH: 
-IHIIIIII:II::::.:.:.VMMMMMHMHHHHA. 
-IIIHIIIHIII:I::::.:..VMMMMMHMHHHHA 
-IIIIIHIIIIIII:I:::.:..VMMMMHMMHHHH.         Miss MORGANA
-IIHIIIIIIHIIIII:I:::..IMMMMMMMHMHHI 
-HIIIIIHIIIIIIIII:I:.:..VMMMMMHMHHI:. 
-HIHIIIIHIIIIIHIHI:I::..IMMMMHMHIHI:. 
-HHIHIIIIIIHIIIIHIHIII:.:MMMMMHMHHI:: 
-HHHIHHHHHHIIIIIIHHHHIHI:MMMMMHMHHII: 
-HHHHIHIIIHIIIIHIHHHHHHHI..HHHIHIIHI:. 
-HHHHHHIHIIIIIIIIIHIHH..IHHHHIHI:III:, 
-HMHHHHHIHIIIIIIIIIHIHMHHIIHIIHI:II:::, 
-MMHHHHHHHHIHIIIIIIIHMIHIIHHIIIHI:I::.., 
-MHMHMHHHHHHHHHIHIIH.;I:IIIHHIIHHI:::::.,
-MMMMMHMHHHHHHHHIHIH;I:IHIHII:HI:HII::.::. 
-MMMMMMMMHMHHHHHHHIH;I:IHMHI.:HIIHI:II:IHA 
-HMMMMMMMMMHMHHHHHHVI::IMHIHHHMH:IH::I:IHH. 
-HHHMMMMMMMMMMHMHH;I:HHIMHHHHMHHIHHI.:AMHI:
-HHHHMMMHHHHMMMMM;I:IIHHIIHAIIIHI:HI:HA:IHI
-HIHHHHMMMHHHMMM:II:IMHHIIMIHIIIHIHHIHMMH.I
+              4.
+                             e$$$$ec.
+                             $$$$$$$$$e     zdP**
+                    '       4$      ^"*$$$ed$$$$$.
+                    -       ^$            "  "*$$$$E
+                    F        b     .    ^**r^ $$$$$$$F
+                    .       .F  .dL     *$L   .d$$$$$$.
+                    "       4F ^  "           $$$$$$$$3$
+                   4.       d.                P$$$$$$$.$
+                   4F      4$L%             z$$$$$$$$$$$
+                   4"      d$$c %.         4$$$$$$$FFb$$
+                   4$     4$$$    "         ^$$$$$$$FFL"
+                    $     3$$$r           "   $$$$$$$$*"
+                    $      4$$           -.  .$$$$$$$$ $
+                    $      e$$          -   $$$$$$$$3$.$
+                    F .   .$$%            z$$$$$$$$$$dP$
+                     d    $$$          4*$$$$$3$$$$$$F$d
+                   .$   ze$F         -%^$$$$$$$$$$$$$$$$
+                   $  J$$$"         ^bd$$$$$$$$$$$$$$$P$
+                  = %d$$$  -.e        **$$$$$$$$$$$$$*$$
+                4)% $$$$$$$$  .^.^  ..ze$$$$$$$$$$$$$$$$
+              *@=L  *$$$$$$$$$$PP    * *$$$$$$.$$$$$$$$$
+            .$      ""3$$$$P"%          "   -"$$$$$$$$$P
+          dP*       *$*" "                    '$$$$$J$$$
+       .eL^        .$$d."                      3$$$$F$$$
+       4$         z$$$F"                        $$$$$.$$
+       $         $$$$$"                        ^$$$$$^$$
+       F        d$$$=                           d$$$$4$$
+       b       J$$%    .                       d$$$$$*$$
+       $E.    4$$$c  d$*$-           .e$.      '$$$$%dJ$
+        $$.   d$$$  ^*P*            F  3F       d$$$.*$$
+         $P   $$$e-               J$   ^$.     *"*$$E$$$
+         $$- z$$$C.              z$$-  d$$.      $$$$$$$
+        4$F '$$$$$$l           .$$$$*E$$$"$     "4$deJ$$
+        4$F e$$$ "$$$$e\    ee$$P"" z$$P  ^b    - $$$$$$
+        4$$ $$$"     """"""""      ^*$P   3$     % *$$$$
+        4$$$$$$.                .J$$$F    %4       *$$%$
+        4$$$$$$F                *$$$F     .^)       *Fd$
+         $$$$$$$                $$$$                -$$$
+         $$$$$$$$              J$$$          L       $*$
+         3$$$$$$$$             $$$F          '       '$
+         ^$$$$$$$$$           J$$$            %       F
+          $CHAT$$$$$c        ^$$$$            4       4
