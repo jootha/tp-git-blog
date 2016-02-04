@@ -1,11 +1,13 @@
 +++
 date = "2006-10-06T12:00:00+01:00"
 draft = true
-title = "Codo Gyasu"
+title = "Côdo Gyasu"
 +++
 # コードギアス 反逆のルルーシュ ##
 
 ## Synopsis : ##
+
+![Alt text](http://cdn.myanimelist.net/images/anime/5/50331l.jpg)
 
 On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.
 
