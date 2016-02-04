@@ -1,13 +1,17 @@
 +++
 date = "2016-02-04T14:11:00+01:00"
 draft = true
-title = "Mes réponses au TP Git"
+title = "LAMASTItroll"
 +++
 
-pleins d'autres choses
-=======
-Le lamasticot est une créature étrange popularisée par le forum blabla 15-18 ans. Il est considéré comme un être supérieur à tous les humains. Il existe aussi plusieurs hypothèses comme par exemple que les lamasticots nous surveilleraient sans cesse. 
+ceci est un test
 
+Le lamasticot est une créature étrange popularisée par le forum blabla 15-18 ans. Il est considéré comme un être supérieur à tous les humains. Il existe aussi plusieurs hypothèses comme par exemple que les lamasticots nous surveilleraient sans cesse.
+reiugbmoinbirenbigvboirbvnsbviohbrbrvb
+trbgtbtrsbds
+vretgsrdbvtsgbsfdoibgmosinb
+fgesruhgierhgihregihr
+dfmgjersiog
 
 
                                        .....'',;;::cccllllllllllllcccc:::;;,,,''...'',,'..
@@ -58,3 +62,7 @@ Le lamasticot est une créature étrange popularisée par le forum blabla 15-18 
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 
+<<<<<<< HEAD
+=1=
+=======
+>>>>>>> 1f0a26dbec6c6f55758749dd703f816172d38e20
