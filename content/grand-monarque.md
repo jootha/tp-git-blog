@@ -6,7 +6,7 @@ title = "Le Grand Monarque"
 # Le Grand Monarque, L'Homme Vert : Sylvain durif 
 ## Un film de Fabien Barthez et Michael Bay
 
-GEM LAIS PEAU NER
+
 
               4.
                              e$$$$ec.
@@ -57,5 +57,9 @@ GEM LAIS PEAU NER
 
 ![Alt text](http://img-9gag-fun.9cache.com/photo/a97REmZ_700b.jpg)
 
+<<<<<<< HEAD
 ![Alt Text](http://www.jeuneafrique.com/medias/2011/11/17/017112011182724000000imampapebaiser.jpg)
 ![Alt Text](https://wiki.jvflux.com/images/thumb/4/47/Lamasticot.PNG/300px-Lamasticot.PNG)
+=======
+![Alt text](http://stream1.gifsoup.com/view4/20150531/5215110/popopo-o.gif)
+>>>>>>> 216e061a4cfa8d8fc3b4b076350b25e773ed774f
