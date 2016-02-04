@@ -1,7 +1,7 @@
 +++
 date = "2006-10-06T12:00:00+01:00"
 draft = true
-title = "Côdo Gyasu"
+title = "Koodo Giasu"
 +++
 # コードギアス 反逆のルルーシュ ##
 
