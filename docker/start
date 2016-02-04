@@ -1,0 +1,6 @@
+#!/bin/bash
+
+chown www-data:www-data /var/www
+
+/etc/init.d/apache2 start
+tail -f /var/log/apache2/*
