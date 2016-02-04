@@ -53,6 +53,7 @@ GEM LAIS PEAU NER
           $CHAT$$$$$c        ^$$$$            4       4
 
 
-<img src="../public/Lamasticot.png">
+
 
 ![Alt text](http://img-9gag-fun.9cache.com/photo/a97REmZ_700b.jpg)
+
