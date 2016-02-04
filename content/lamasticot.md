@@ -1,7 +1,7 @@
 +++
 date = "2016-02-04T14:11:00+01:00"
 draft = true
-title = "Mes réponses au TP Git"
+title = "LAMASTItroll"
 +++
 
 ceci est un test
@@ -62,4 +62,7 @@ dfmgjersiog
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 
+<<<<<<< HEAD
 =1=
+=======
+>>>>>>> 1f0a26dbec6c6f55758749dd703f816172d38e20
