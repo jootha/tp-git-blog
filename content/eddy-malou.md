@@ -8,4 +8,5 @@ title = "Eddy-Malou"
 
 JOHN SNOW MEURT 
 LA MERE STARK REVIENT EN MARCHEUR BLANC
-Negan tue Glenn à coups de batte de baseball… 
+
+NEGAN TUE GLENN A COUPS DE BATTE DE BASEBALL !!!!!!!!!!
