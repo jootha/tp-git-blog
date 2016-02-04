@@ -21,4 +21,11 @@ git commit -m
 	  * date
 	  * auteur
 	  * Message obligatoire "
-get diff
+git diff
+git diff "ID1" "ID2"
+vi content/pokemon.md
+git add pokemon.md
+git commit -m Pokemon
+git rm content/pokemon.md
+git add pokemon.md
+git comit -m "Suppression de Pokemon"
