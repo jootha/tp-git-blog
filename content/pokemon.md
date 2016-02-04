@@ -1,7 +1,8 @@
 +++
 title="Le jour où je suis tombé amoureux de Monsieur Beaufils"
 +++
-
+# Les plans de la bombe atomique #
+## Par des russes ##
 Home > NUCLEARBOMB - ASCII ART Tweet
 NUCLEARBOMB - ASCII ART
 
