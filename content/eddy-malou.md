@@ -6,7 +6,8 @@ title = "Eddy-Malou"
 # Le savant de la Republique democratique du Congo
 ## Biographie
 
-Eddy Malou a reçu plusieurs prix Nobel.Notamment celui de l’économie, qu'il a obtenu après avoir fait des recherches sur la congolexicomatisation. Il obtint le prix Nobel de la politique en 1969 (pour ses écrits sur les quatre carres fous du fromage) et celui de l'innovation 1943 (pour sa contribution a l'invention des rollers nucléaires).
+JOHN SNOW MEURT 
+LA MERE STARK REVIENT EN MARCHEUR BLANC
 
 ##Les mathématiques de la congolexicomatisation
 Pour tout x appartenant à R : Quand il y en a beaucoup, c'est qu'il y en a trop. Donc beaucoup = trop
