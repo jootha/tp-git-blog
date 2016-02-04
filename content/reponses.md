@@ -22,14 +22,7 @@ git commit -m Initialisation
     *Message obligatoire
 
 emacs reponses.md (le modifier)
-git diff "ID1" "ID2"
-get content -am pokemon
-emacs pokemon.md
-git add
-git commit -m Pokemon
-rm Pokmeon
-git commit -m "Suppression de Pokemon"
-
+git diff
 
 
 
