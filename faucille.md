@@ -13,7 +13,7 @@ draft = true
 title = "La nouvelle Révolution"
 +++
 
-# _____________________________________TP GIT_____________________________
+# TP GIT
 ## Configuratiob
 
 git config --global
@@ -22,6 +22,6 @@ bblbbbbbbb
 
 https://upload.wikimedia.org/wikipedia/en/9/99/MarioSMBW.png
 
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssssssssssssssssssssssssss
+#ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+#sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+#sssssssssssssssssssssssssssssssssssssssssssssss
