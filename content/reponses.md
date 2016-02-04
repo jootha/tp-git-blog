@@ -1,7 +1,7 @@
 +++
 date = "2016-02-04T12:00:00+01:00"
 draft = true
-title = "Mes rיponses au TP Git"
+title = "Mes rייייייייייייייייייponses au TP Git"
 +++
 # TP Git
 ## Configuration
@@ -30,7 +30,10 @@ git commit -m Pokemon
 rm pokemon.md
 git add pokemon.md
 git commit -m "Supression de Pokemon!"
-
+git remote add origin  http://git.iut.azae.net/git/tp-git.gi
+git pull origin master
+git push origin master
+yehdhjfdhdfyhgfgehrf
 
 
 
