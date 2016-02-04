@@ -51,3 +51,6 @@ GEM LAIS PEAU NER
          3$$$$$$$$             $$$F          '       '$
          ^$$$$$$$$$           J$$$            %       F
           $CHAT$$$$$c        ^$$$$            4       4
+
+
+<img src="/../public/Lamasticot.png">
