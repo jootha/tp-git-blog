@@ -13,4 +13,17 @@ mkdir GIT
 cd GIT
 git init .
 mkdir content
+emacs reponses.md
+git add reponses.md
+git commit -m Initialisation
+    *identifiant --> unique
+    *date
+    *auteur
+    *Message obligatoire
 
+emacs reponses.md (le modifier)
+git diff
+
+
+
+    
