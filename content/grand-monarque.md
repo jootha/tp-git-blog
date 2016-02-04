@@ -57,3 +57,5 @@ GEM LAIS PEAU NER
 
 ![Alt text](http://img-9gag-fun.9cache.com/photo/a97REmZ_700b.jpg)
 
+![Alt Text](http://www.jeuneafrique.com/medias/2011/11/17/017112011182724000000imampapebaiser.jpg)
+![Alt Text](https://wiki.jvflux.com/images/thumb/4/47/Lamasticot.PNG/300px-Lamasticot.PNG)
